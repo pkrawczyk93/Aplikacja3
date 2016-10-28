@@ -1,0 +1,14 @@
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\bin\Debug\Aplikacja3.exe.config
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\bin\Debug\Aplikacja3.exe
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\bin\Debug\Aplikacja3.pdb
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\obj\Debug\Aplikacja3.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\obj\Debug\MainWindow.g.cs
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\obj\Debug\App.g.cs
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\obj\Debug\Aplikacja3_MarkupCompile.cache
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\obj\Debug\Aplikacja3_MarkupCompile.lref
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\obj\Debug\MainWindow.baml
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\obj\Debug\Aplikacja3.g.resources
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\obj\Debug\Aplikacja3.Properties.Resources.resources
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\obj\Debug\Aplikacja3.csproj.GenerateResource.Cache
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\obj\Debug\Aplikacja3.exe
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\Aplikacja3\Aplikacja3\obj\Debug\Aplikacja3.pdb
