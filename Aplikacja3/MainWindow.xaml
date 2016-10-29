@@ -8,6 +8,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <StackPanel>
+            <TextBlock Text="Program edytowany pzez druga grupe pracujaca na linuksie" />
             <TextBlock x:Name="textBlock1" />
             <TextBlock Text="Release1" />
         </StackPanel>
