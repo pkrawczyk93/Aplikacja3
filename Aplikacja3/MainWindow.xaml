@@ -10,6 +10,7 @@
         <StackPanel>
             <TextBlock x:Name="textBlock1" />
             <TextBlock Text="Release1" />
+            <TextBlock Text="Naprawa wersji do 1.1" />
         </StackPanel>
     </Grid>
 </Window>
