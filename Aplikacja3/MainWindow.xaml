@@ -14,6 +14,7 @@
             <TextBlock Text="Zmiana w masterze" />
 
             <TextBlock Text="Naprawa wersji do 1.1" />
+            <TextBlock Text="Zmiana wprowadzona po mergu" />
 
         </StackPanel>
     </Grid>
