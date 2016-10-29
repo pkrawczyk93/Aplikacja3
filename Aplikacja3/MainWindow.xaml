@@ -10,6 +10,7 @@
         <StackPanel>
             <TextBlock x:Name="textBlock1" />
             <TextBlock Text="Release1" />
+            <TextBlock Text="Zmiana w masterze" />
         </StackPanel>
     </Grid>
 </Window>
